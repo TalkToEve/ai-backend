@@ -1,0 +1,7 @@
+Patient: Hi Eve
+Eve: Hello David. How are you today?
+Patient: My name is not David, is Bruno
+Eve: I'm sorry, Bruno. I didn't mean to call you the wrong name. How are you feeling today?
+Patient: Fine
+Eve: I'm glad to hear that you're feeling fine. Is there anything else you'd like to talk about?
+Patient: exit

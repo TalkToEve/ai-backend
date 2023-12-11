@@ -1,0 +1,95 @@
+{"id":"000",
+"name": "anonymous health and wellbeing survey y2 2023", "date": "05-12-2023", 
+"question_0": {
+    "question": "What is your position?", 
+    "answers": ["Officer / Chief / SL", "Operator / Rating", "Other"]},
+"question_1": {
+    "question": "What is your age?", 
+    "answers": ["Under 24", "25 - 34", "35 - 44","45 - 54", "Over 55"]},
+"question_2": {
+    "question": "What shift are you on?", 
+    "answers":["00 - 12", "12 - 24", "Dayshift", "Other"]},
+"question_3": {
+    "question": "How many years of seismic offshore experience do you have?", 
+    "answers": ["1 year or less","2 - 4 years","5 - 9 years","10 - 15 years","Over 15 years"]},
+"question_4": {
+    "question": "Which vessel do you work on?", 
+    "answers": ["Tethys","Sovereign","Vanguard","Atlas","Hyperion","Tansa","Apollo","Swift","Victory"]},
+"question_5": {
+    "question": "How many hours per day (on - and off shift) do you spend sitting orphysically inactive?", 
+    "answers": ["Less than 2 hrs", "3 - 4 hrs", "5 - 7 hrs", "8 - 11 hrs", "Over 11 hrs"]},
+"question_6": {
+    "question": "How often do you go outside to get some fresh air during a day?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_7": {
+    "question": "How often do you do exercise in your time off per week?", 
+    "answers": ["Never","0 - 60 minutes","61 - 100 minutes","101 - 149 minutes","150 - 300 minutes","More than 300 minutes"]},
+"question_8": {
+    "question": "How many servings of fruit and vegetables do you usually eat per day (athome and at work)?", 
+    "answers": ["1 or less", "2 servings", "3 servings", "4 servings", "5 or more"]},
+"question_9": {
+    "question": "How many days a week do you usually eat fast food or food that is highin fat and salt (at home and at work)?", 
+    "answers": ["None", "1", "2 - 3 times", "4 - 5 times", "5 or more"]},
+"question_10": {
+    "question": "Healthy options that I want to eat are served onboard?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_11": {
+    "question": "When was the last time you had your cholesterol measured?", 
+    "answers": ["Never", "Last month", "6 months", "1 year", "Over 2 years"]},
+"question_12": {
+    "question": "When was the last time you had your blood pressuremeasured?", 
+    "answers": ["Last month", "6 months", "1 year", "Over 2 years"]},
+"question_13": {
+    "question": "I’m comfortable seeing the Medic if I feel unwell.", 
+    "answers": ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]},
+"question_14": {
+    "question": "In the last month, how often have you felt that you were unable to control the important things in your life?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_15": {
+    "question": "In the last month, how often have you felt confident about your ability to handle your personal problems?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_16": {
+    "question": "In the last month, how often have you felt that things were going yourway?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_17": {
+    "question": "In the last month, how often have you felt difficulties were piling up sohigh that you could not overcome them?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_18": {
+    "question": "How often are you able to stay in touch with your family and friends while offshore?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_19": {
+    "question": "How often do you socialize with you colleagues off shift?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_20": {
+    "question": "Welfare and sports offerings onboard are good?", 
+    "answers": ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]},
+"question_21": {
+    "question": "I am comfortable seeing the Medic if I feel distressed or down.", 
+    "answers": ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]},
+"question_22": {
+    "question": "Are you aware of the emotional support services provided by PGS", 
+    "answers": ["Not aware", "Aware", "I have used them"]},
+"question_23": {
+    "question": "How often have you felt unsafe at work during the last 6 months?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_24": {
+    "question": "The safety culture in my department is good", 
+    "answers": ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]},
+"question_25": {
+    "question": "I don't have a problem stopping the job if I see anything unsafe", 
+    "answers": ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]},
+"question_26": {
+    "question": "How often do you feel a rush to complete a job quickly?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_27": {
+    "question": "How often are you distracted or find it difficult to concentrate?", 
+    "answers": ["Never", "Almost never", "Sometimes", "Fairly often", "Very often"]},
+"question_28": {
+    "question": "On an average day, I usually get the following hours of sleep", 
+    "answers": ["0-2", "3-4", "5-6", "7-8", "9-10"]},
+"question_29": {
+    "question": "I am able to adapt when changes occur", 
+    "answers": ["Not true at all", "Rarely true", "Sometimes true", "Often true", "True nearly all the time"]},
+"question_30": {
+    "question": "I tend to bounce back after illness, injury or other hardships", 
+    "answers": ["Not true at all", "Rarely true", "Sometimes true", "Often true", "True nearly all the time"]}}

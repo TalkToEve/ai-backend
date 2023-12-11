@@ -1,0 +1,12 @@
+Take a deep breath, you have to fulfill the following task: respond with True or False only.
+The rules are as follows:
+
+1.Between <<< >>> you have an input, where you need to decide if the input is a question that can be answered with the description provided between .
+2.If there is a reference to that description, you must respond only with the word True. If not, you should respond with False.
+3.You must use only the information present in and between <<< >>>.
+4.Your response must be a single word: True or False.
+
+Input: <<<{message}>>>
+Description: $$${description}$$$
+
+Your output:
